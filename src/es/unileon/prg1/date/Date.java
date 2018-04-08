@@ -5,7 +5,7 @@ public class Date {
 	private int month;
 	private int year;
 	
-	// Constructor mal programado: Permite crear fechas no validas
+	
 	public Date(int day, int month, int year){
 		this.day = day;
 		this.month = month;
